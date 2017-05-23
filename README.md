@@ -19,7 +19,7 @@ The Lucene core do not handle replication and scaling of the search index to sev
 <h2>Example application</h2>
 I have written a Java class to demonstrate how easy it is to use Lucene. The program indexes XML files in a directory and lets you execute queries. To make it a little more interesting I have added support for updating (reindex) documents and highlighting of query terms.
 
-The program comes with dependent jars and a set of  sample XML files containing famous quotations and can be downloaded <a href="http://blog.cag.se/wp-content/uploads/2012/10/lucene-example.zip">here</a>.
+The program comes with dependent jars and a set of  sample XML files containing famous quotations and can be downloaded <a href="https://github.com/milin44/lucene/blob/master/lucene-example.zip">here</a>.
 
 You can start the application by executing java like this:
 
